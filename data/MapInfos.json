@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Town","order":4,"parentId":0,"scrollX":743,"scrollY":418.5},
+{"id":2,"expanded":true,"name":"Wood House","order":5,"parentId":1,"scrollX":619,"scrollY":340.5},
+{"id":3,"expanded":true,"name":"Weapon Shop","order":7,"parentId":1,"scrollX":619,"scrollY":408.5},
+{"id":4,"expanded":true,"name":"Dungeon","order":9,"parentId":11,"scrollX":816,"scrollY":696},
+{"id":5,"expanded":true,"name":"Cutscene","order":1,"parentId":0,"scrollX":619,"scrollY":340.5,"quick":false},
+{"id":6,"expanded":false,"name":"Purple House","order":6,"parentId":1,"scrollX":752.4,"scrollY":780.5999999999999},
+{"id":7,"expanded":true,"name":"Ruins","order":10,"parentId":11,"scrollX":816,"scrollY":992,"quick":false},
+{"id":8,"expanded":true,"name":"Forest","order":11,"parentId":11,"scrollX":1061.142857142857,"scrollY":1185.4285714285713},
+{"id":9,"expanded":false,"name":"Volcano","order":3,"parentId":5,"scrollX":1116,"scrollY":527.5},
+{"id":10,"expanded":false,"name":"Abandoned House","order":12,"parentId":8,"scrollX":1061.142857142857,"scrollY":597.4285714285714},
+{"id":11,"expanded":true,"name":"Lost Forest","order":8,"parentId":0,"scrollX":1074.857142857143,"scrollY":1504.2857142857142,"quick":false},
+{"id":12,"expanded":false,"name":"Volcano Dungeon ","order":2,"parentId":5,"scrollX":756,"scrollY":986.5,"quick":false}
+]
